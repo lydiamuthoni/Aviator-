@@ -18,7 +18,7 @@ CORS(app, supports_credentials=True)
 # MONGODB CONNECTION
 # ============================================
 # PASTE YOUR MONGODB CONNECTION STRING BELOW:
-MONGO_URI = "mongodb+srv://Sunny:<DRpM7nLo6aVVSSxs>@cluster0.amkty7g.mongodb.net/?appName=Cluster0"  # <-- REPLACE WITH YOUR ACTUAL CONNECTION STRING
+#MONGO_URI = "mongodb+srv://Sunny:<DRpM7nLo6aVVSSxs>@cluster0.amkty7g.mongodb.net/?appName=Cluster0"  # <-- REPLACE WITH YOUR ACTUAL CONNECTION STRING
 # For MongoDB Atlas, use: "mongodb+srv://username:password@cluster.mongodb.net/"
 
 try:
